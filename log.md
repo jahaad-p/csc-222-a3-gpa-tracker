@@ -30,4 +30,4 @@
 - we are creating whats called a prameterized constructor, probably because we will call the class AFTER we take the users input... so we will have everything we need to populate the object.
 
 ## 2:52
-commited changes, will return back and define our methods.
+commited changes, will return back and define our methods during our next session
