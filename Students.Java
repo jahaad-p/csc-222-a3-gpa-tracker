@@ -4,7 +4,7 @@ public class Student {
     // Private attributes
     private String firstName;
     private String lastName;
-    private double double;
+    private double gpa;
 
     // Constructor to initialize student object
 
