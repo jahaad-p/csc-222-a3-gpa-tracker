@@ -7,6 +7,11 @@ public class Student {
     private double gpa;
 
     // Constructor to initialize student object
+    public Student(String firstName, String lastName, double gpa) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.gpa = gpa;
+    }
 
 
     // Getter methods
