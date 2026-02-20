@@ -27,4 +27,7 @@
 
 - after reviewing what UML is: i noticed that it defines the constructor must not be a no -arg one as i've had it: while the pattern I was conceptualizing would give the same output: the required instruction would not be met resulting in points off on the assignment. I was defining default values ("undefined","undefined",-1) in the constructor instead of passing the private values.
 
-- we are creating whats called a prameterized constructor, probably because we will call the class AFTER
+- we are creating whats called a prameterized constructor, probably because we will call the class AFTER we take the users input... so we will have everything we need to populate the object.
+
+## 2:52
+commited changes, will return back and define our methods.
