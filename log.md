@@ -1,9 +1,11 @@
+# 2/20/2026
+
 ## 1:25pm
 - starting off by defining our private attributes. for acedemic honesty: ill only be refrencing zybooks and java documention via w3 schools for any blockers during the completion of the assignment. 
 
 - Reviewed 9.1 for overview of objects and now i will reference 9.3 for the class defintion refrence. I am not able to recall java object syntax by memory just yet... ( OOP is new to me )
 
-## 1:28Pm
+## 1:28
 
 - creating starter code file and commiting to git
 
@@ -31,3 +33,13 @@
 
 ## 2:52
 commited changes, will return back and define our methods during our next session
+
+# 2/21/2026
+
+## 1:10
+- getter methods ( or accesors ) are public methods that return the value of private fields in a classd. this goes with the idea of encapsulation of keeping fields private so outside code cannot change them directly 
+
+- make three getter methods for each of our fields
+
+- setter methods is a method that recieves a new value as a prameter and assigns it to the objects field using `this.field = paramter`
+
